@@ -8,4 +8,4 @@
 
 # Hi there
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="90px">
+<img src="https://github.com/ebarrera2019263/GIF.git" width="90px">
